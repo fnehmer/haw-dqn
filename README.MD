@@ -1,5 +1,5 @@
 ## Solving OpenAI Gym CartPole game with a DQN (Reinforcement Learning)
-For my assignment in the HAW Hamburg course "Intelligente Systeme" (engl: intellegent systems) I needed to do 3 practical research of self-chosen topics in the areas "Searching", "Learning" and "NLP". For "Learning" I decided to assess Deep Q-Learning with the CartPole game example of OpenAI Gym.
+For my assignment at the HAW Hamburg course "Intelligente Systeme" (engl: intellegent systems) I needed to do 3 practical researches of self-chosen topics in the areas "Searching", "Learning" and "NLP". For "Learning" I decided to assess Deep Q-Learning with the CartPole game example of OpenAI Gym.
 
 ### Cart Pole Game
 The goal of the OpenAI CartPole game is to balance out a Pole on a moving cart.
